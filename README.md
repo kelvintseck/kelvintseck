@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm a student from **CUHK**, majoring in **AIST**.  
+Pronouns: _he, him_  
+$$e^{i\pi} +1=0$$
+
 
 <!--
 **kelvintseck/kelvintseck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
